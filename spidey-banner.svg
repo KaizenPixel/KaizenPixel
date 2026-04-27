@@ -1,0 +1,104 @@
+<svg width="100%" viewBox="0 0 680 260" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>KaizenPixel Spider-Man Banner</title>
+  <style>
+    @keyframes swing { 0%{transform:rotate(-18deg)} 50%{transform:rotate(18deg)} 100%{transform:rotate(-18deg)} }
+    @keyframes floatspidy { 0%,100%{transform:translateY(0px)} 50%{transform:translateY(8px)} }
+    @keyframes pulse { 0%,100%{opacity:.45} 50%{opacity:1} }
+    @keyframes crawl { 0%{transform:translateX(-60px)} 100%{transform:translateX(740px)} }
+    @keyframes webdrop { 0%{stroke-dashoffset:200} 100%{stroke-dashoffset:0} }
+    .spidy-swing { transform-origin: 520px 0px; animation: swing 4s ease-in-out infinite; }
+    .spidy-float { animation: floatspidy 4s ease-in-out infinite; }
+    .spidey-symbol { animation: pulse 2s ease-in-out infinite; }
+    .mini-spidy { animation: crawl 14s linear infinite; }
+    .web-line { stroke-dasharray: 200; animation: webdrop 1.5s ease forwards; }
+  </style>
+
+  <rect width="680" height="260" fill="#0a0a14"/>
+
+  <line x1="0" y1="0" x2="680" y2="260" stroke="#1a1a3a" stroke-width="0.5"/>
+  <line x1="0" y1="65" x2="680" y2="260" stroke="#1a1a3a" stroke-width="0.5"/>
+  <line x1="0" y1="130" x2="680" y2="260" stroke="#1a1a3a" stroke-width="0.5"/>
+  <line x1="0" y1="195" x2="680" y2="260" stroke="#1a1a3a" stroke-width="0.5"/>
+  <line x1="170" y1="0" x2="680" y2="260" stroke="#1a1a3a" stroke-width="0.5"/>
+  <line x1="340" y1="0" x2="680" y2="260" stroke="#1a1a3a" stroke-width="0.5"/>
+  <line x1="510" y1="0" x2="680" y2="260" stroke="#1a1a3a" stroke-width="0.5"/>
+  <line x1="680" y1="0" x2="0" y2="260" stroke="#1a1a3a" stroke-width="0.5"/>
+  <line x1="170" y1="0" x2="0" y2="260" stroke="#1a1a3a" stroke-width="0.5"/>
+  <line x1="340" y1="0" x2="0" y2="260" stroke="#1a1a3a" stroke-width="0.5"/>
+  <line x1="510" y1="0" x2="0" y2="260" stroke="#1a1a3a" stroke-width="0.5"/>
+
+  <g class="spidy-swing">
+    <line x1="520" y1="0" x2="520" y2="82" stroke="#cccccc" stroke-width="0.9" class="web-line" stroke-dashoffset="200"/>
+    <g class="spidy-float">
+      <ellipse cx="520" cy="107" rx="18" ry="22" fill="#c0392b"/>
+      <ellipse cx="520" cy="98" rx="13" ry="12" fill="#c0392b"/>
+      <ellipse cx="514" cy="95" rx="5" ry="6" fill="#1a1a2e"/>
+      <ellipse cx="526" cy="95" rx="5" ry="6" fill="#1a1a2e"/>
+      <ellipse cx="514" cy="94" rx="2.5" ry="2.5" fill="white" opacity="0.85"/>
+      <ellipse cx="526" cy="94" rx="2.5" ry="2.5" fill="white" opacity="0.85"/>
+      <path d="M509 101 Q520 104 531 101" stroke="#1a1a2e" stroke-width="1.2" fill="none"/>
+      <path d="M509 99 Q520 89 531 99" stroke="#1a1a2e" stroke-width="0.8" fill="none"/>
+      <path d="M503 87 Q509 91 511 97" stroke="#1a1a2e" stroke-width="0.8" fill="none"/>
+      <path d="M537 87 Q531 91 529 97" stroke="#1a1a2e" stroke-width="0.8" fill="none"/>
+      <path d="M499 83 Q507 88 511 95" stroke="#1a1a2e" stroke-width="0.6" fill="none"/>
+      <path d="M541 83 Q533 88 529 95" stroke="#1a1a2e" stroke-width="0.6" fill="none"/>
+      <path d="M511 109 Q515 119 513 127" stroke="#1a1a2e" stroke-width="1" fill="none"/>
+      <path d="M529 109 Q525 119 527 127" stroke="#1a1a2e" stroke-width="1" fill="none"/>
+      <path d="M509 119 Q515 126 513 133" stroke="#1a1a2e" stroke-width="0.8" fill="none"/>
+      <path d="M531 119 Q525 126 527 133" stroke="#1a1a2e" stroke-width="0.8" fill="none"/>
+      <path d="M503 89 L537 89 M503 94 L537 94 M503 99 L537 99 M503 104 L537 104 M503 109 L537 109 M503 114 L537 114 M503 119 L537 119 M503 124 L537 124" stroke="#8B0000" stroke-width="0.4" opacity="0.55"/>
+      <path d="M503 84 L503 129 M509 81 L509 132 M515 79 L515 133 M520 79 L520 133 M525 79 L525 133 M531 81 L531 132 M537 84 L537 129" stroke="#8B0000" stroke-width="0.4" opacity="0.55"/>
+    </g>
+  </g>
+
+  <line x1="100" y1="0" x2="350" y2="140" stroke="#777" stroke-width="0.7" opacity="0.5"/>
+  <line x1="200" y1="0" x2="350" y2="140" stroke="#777" stroke-width="0.7" opacity="0.4"/>
+  <line x1="0" y1="30" x2="350" y2="140" stroke="#777" stroke-width="0.7" opacity="0.3"/>
+  <line x1="350" y1="140" x2="680" y2="20" stroke="#777" stroke-width="0.7" opacity="0.45"/>
+  <line x1="350" y1="140" x2="580" y2="0" stroke="#777" stroke-width="0.7" opacity="0.3"/>
+  <circle cx="100" cy="0" r="3" fill="#aaa" opacity="0.6"/>
+  <circle cx="200" cy="0" r="3" fill="#aaa" opacity="0.6"/>
+  <circle cx="0" cy="30" r="3" fill="#aaa" opacity="0.5"/>
+  <circle cx="680" cy="20" r="3" fill="#aaa" opacity="0.5"/>
+  <circle cx="580" cy="0" r="3" fill="#aaa" opacity="0.5"/>
+  <circle cx="350" cy="140" r="4" fill="#c0392b" opacity="0.9"/>
+
+  <text x="58" y="150" font-family="Georgia, serif" font-size="50" font-weight="900" fill="#c0392b" letter-spacing="-1">KAIZEN</text>
+  <text x="60" y="150" font-family="Georgia, serif" font-size="50" font-weight="900" fill="none" stroke="#ff6b6b" stroke-width="0.6" letter-spacing="-1" opacity="0.35">KAIZEN</text>
+  <text x="61" y="196" font-family="Georgia, serif" font-size="42" font-weight="900" fill="#e8e8f0" letter-spacing="7">PIXEL</text>
+  <text x="61" y="196" font-family="Georgia, serif" font-size="42" font-weight="900" fill="none" stroke="#6366f1" stroke-width="0.9" letter-spacing="7" opacity="0.55">PIXEL</text>
+  <rect x="58" y="207" width="316" height="2" fill="#c0392b" opacity="0.75" rx="1"/>
+  <rect x="58" y="210" width="204" height="1" fill="#6366f1" opacity="0.5" rx="1"/>
+  <text x="60" y="230" font-family="monospace" font-size="11" fill="#6366f1" letter-spacing="3.5">GAMEDEV  ·  ML  ·  ORIGIN  STORY</text>
+
+  <g class="spidey-symbol">
+    <circle cx="628" cy="200" r="29" fill="none" stroke="#c0392b" stroke-width="1.2" opacity="0.6"/>
+    <circle cx="628" cy="200" r="22" fill="none" stroke="#c0392b" stroke-width="0.6" opacity="0.4"/>
+    <line x1="599" y1="200" x2="657" y2="200" stroke="#c0392b" stroke-width="0.6" opacity="0.5"/>
+    <line x1="628" y1="171" x2="628" y2="229" stroke="#c0392b" stroke-width="0.6" opacity="0.5"/>
+    <line x1="607" y1="179" x2="649" y2="221" stroke="#c0392b" stroke-width="0.5" opacity="0.4"/>
+    <line x1="649" y1="179" x2="607" y2="221" stroke="#c0392b" stroke-width="0.5" opacity="0.4"/>
+    <circle cx="628" cy="200" r="7" fill="#c0392b" opacity="0.85"/>
+    <circle cx="628" cy="200" r="3" fill="#ff9999"/>
+  </g>
+
+  <text x="464" y="150" font-family="monospace" font-size="9.5" fill="#c0392b" opacity="0.65" letter-spacing="1">// with great power</text>
+  <text x="464" y="164" font-family="monospace" font-size="9.5" fill="#c0392b" opacity="0.65" letter-spacing="1">// comes great</text>
+  <text x="464" y="178" font-family="monospace" font-size="9.5" fill="#ff9999" opacity="0.9" letter-spacing="1">// responsibility</text>
+
+  <rect x="0" y="248" width="680" height="12" fill="#c0392b" opacity="0.12"/>
+  <rect x="0" y="252" width="680" height="4" fill="#c0392b" opacity="0.45"/>
+
+  <g class="mini-spidy">
+    <ellipse cx="0" cy="255" rx="5" ry="3" fill="#c0392b"/>
+    <ellipse cx="0" cy="254" rx="3.5" ry="3" fill="#c0392b"/>
+    <ellipse cx="-1.5" cy="253" rx="1.5" ry="1.5" fill="#1a1a2e"/>
+    <ellipse cx="1.5" cy="253" rx="1.5" ry="1.5" fill="#1a1a2e"/>
+    <line x1="-5" y1="253" x2="-9" y2="250" stroke="#c0392b" stroke-width="0.8"/>
+    <line x1="-4" y1="255" x2="-9" y2="255" stroke="#c0392b" stroke-width="0.8"/>
+    <line x1="-5" y1="257" x2="-9" y2="260" stroke="#c0392b" stroke-width="0.8"/>
+    <line x1="5" y1="253" x2="9" y2="250" stroke="#c0392b" stroke-width="0.8"/>
+    <line x1="4" y1="255" x2="9" y2="255" stroke="#c0392b" stroke-width="0.8"/>
+    <line x1="5" y1="257" x2="9" y2="260" stroke="#c0392b" stroke-width="0.8"/>
+  </g>
+</svg>
