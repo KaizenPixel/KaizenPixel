@@ -202,8 +202,10 @@ streak          = "One commit at a time 🔥"
 
 ---
 
-<br/>
+### 🕷️ Your friendly neighborhood dev
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:6366f1,100:0d0d1a&height=140&section=footer&reversal=false" width="100%" />
+
+![KaizenPixel Spider-Man Banner](./spidey-banner.svg)
+
 </div>
