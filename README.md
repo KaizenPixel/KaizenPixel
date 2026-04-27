@@ -179,7 +179,7 @@ streak          = "One commit at a time 🔥"
   </a>
   &nbsp;
   <a href="">
-    <img src="https://img.shields.io/badge/Email-Say%20samarthvalsange34@email.com-0d0d1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335" />
+    <img src="https://img.shields.io/badge/Email-%20samarthvalsange34@email.com-0d0d1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335" />
   </a>
 </div>
 
