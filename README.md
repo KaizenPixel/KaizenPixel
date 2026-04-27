@@ -198,6 +198,22 @@ streak          = "One commit at a time 🔥"
                          — KaizenPixel
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:6366f1,100:0d0d1a&height=140&section=footer&reversal=false" width="100%" />
+</div>
 
+---
+
+### 👾 Pac-Man eating my contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaizenPixel/KaizenPixel/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaizenPixel/KaizenPixel/output/github-contribution-grid-snake.svg" />
+    <img alt="pac-man contribution snake" src="https://raw.githubusercontent.com/KaizenPixel/KaizenPixel/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:6366f1,100:0d0d1a&height=140&section=footer&reversal=false" width="100%" />
 </div>
