@@ -170,15 +170,15 @@ streak          = "One commit at a time 🔥"
     <img src="https://img.shields.io/badge/GitHub-%40KaizenPixel-0d0d1a?style=for-the-badge&logo=github&logoColor=white&labelColor=6366f1" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/samarth-valsange-10a1a5329/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" />
   </a>
   &nbsp;
-  <a href="https://x.com">
+  <a href="[https://x.com](https://x.com/KaizenPixel)">
     <img src="https://img.shields.io/badge/Twitter-Follow-0d0d1a?style=for-the-badge&logo=x&logoColor=white&labelColor=1d9bf0" />
   </a>
   &nbsp;
-  <a href="mailto:your@email.com">
+  <a href="samarthvalsange34@email.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-0d0d1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335" />
   </a>
 </div>
